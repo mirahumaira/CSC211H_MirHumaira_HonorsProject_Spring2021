@@ -24,4 +24,4 @@ Bronx,Harvest Home Jacobi Hospital Farmers' Market,1400 Pelham Pkwy S at Eastche
 Bronx,Kingsbridge-Riverdale Farmers' Market,260 W 231st St,208
 Bronx,Bronx Borough Hall Greenmarket,Grand Concourse bet E 161st & 162nd Sts,204
 Bronx,Morning Glory Market at the New York Botanical Gardens,2900 Southern Blvd.,227
-Bronx,Poe Park Greenmarket,E 192 St & Grand Concourse,207
+Bronx,Poe Park Greenmarket,E 192 St & Grand Concourse,200
