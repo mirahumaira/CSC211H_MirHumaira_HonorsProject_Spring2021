@@ -1,0 +1,40 @@
+Manhattan,Morningside Park's Down to Earth Farmers' Market,W 110th St & Manhattan Ave,107
+Manhattan,Fulton Stall Market,Pier 17 Square,101
+Manhattan,Tompkins Square Greenmarket,E. 7th St. & Avenue A,103
+Manhattan,Hamilton Heights Green Youthmarket,Amsterdam bet W 143rd & 144th Sts. at Johnny Hartman Plaza,109
+Manhattan,175th Street Greenmarket,W 175th St bet Wadsworth Ave & Broadway,112
+Manhattan,Rockefeller Center Greenmarket,Rockefeller Plaza bet W 49th & 50th Sts,105
+Manhattan,Columbia University Greenmarket,Broadway & W 114th St,109
+Manhattan,Go!Healthy Farm Stand at Mirabal Sisters Campus,21 Jumel Pl.,112
+Manhattan,79th Street Greenmarket,Columbus Ave bet W 78th & 81st Sts,107
+Manhattan,Dag Hammarskjold Plaza Greenmarket,E 47th St & 2nd Ave,106
+Manhattan,Mount Sinai Hospital Greenmarket,E 99th St bet Madison & Park Aves,111
+Manhattan,Greenmarket at Oculus Plaza,Church & Fulton Sts. on Oculus Plaza,101
+Manhattan,Harvest Home Metropolitan Farmers' Market,E 99th St & 3rd Ave,111
+Manhattan,Stuyvesant Town Greenmarket,E. 14th. St. Loop & Avenue A in the Oval,103
+Manhattan,97th Street Greenmarket,W 97th St bet Columbus & Amsterdam Aves,107
+Manhattan,Harvest Home Lenox Ave Farm Stand,Lenox Ave bet W 117th & 118th Sts,110
+Manhattan,57th Street Greenmarket,W 57th St & 10th Ave,104
+Manhattan,PS 57 Farmstand,E 115th St & 3rd Ave,111
+Manhattan,Union Square Greenmarket,E 17th St & Union Square W,105
+Manhattan,Bowling Green Greenmarket,Broadway & Battery Pl,101
+Manhattan,92nd Street Greenmarket,E 92nd St & 1st Ave,108
+Manhattan,Inwood Park Greenmarket,Isham St bet Seaman Ave & Cooper St,112
+Manhattan,PS 5 Go!Healthy Farm Stand,3703 10th Ave,112
+Manhattan,Grass Roots Farmers' Market,W 145th St bet Edgecombe & Bradhurst Aves at Jackie Robinson Park,109
+Manhattan,Staten Island Ferry Whitehall Terminal Greenmarket,4 South St inside terminal,101
+Manhattan,Astor Place Greenmarket,Astor Pl bet Broadway & Lafayette,102
+Manhattan,Tucker Square Greenmarket,W 66th St & Broadway,107
+Manhattan,Harvest Home Harlem Hospital Farmers' Market,Lenox Ave bet 135th & 137th Sts,110
+Manhattan,Lower East Side Farmstand,Grand Ave bet Pitt & Willet Sts,103
+Manhattan,Fort Washington Greenmarket,W 168th St & Ft Washington Ave,112
+Manhattan,PS 11 Farm Market,W 21st St bet 8th & 9th Aves,104
+Manhattan,82nd Street Greenmarket,E 82nd St bet 1st & York Aves,108
+Manhattan,Chelsea's Down to Earth Farmers Market,W 23rd St bet 8th & 9th Aves,104
+Manhattan,Savoy Park Down to Earth Farmers' Market,Lenox Ave bet W 141st & W 142nd Sts,110
+Manhattan,Abingdon Square Greenmarket,Hudson St & W 12th St,102
+Manhattan,Harvest Home East Harlem Farmers' Market,104th St & 3rd Ave,111
+Manhattan,Gouverneur Health Farmstand,Madison St bet Clinton & Jefferson Sts,103
+Manhattan,Tribeca Greenmarket,Greenwich & Chambers Sts,101
+Manhattan,City Hall Greenmarket,Broadway & Chambers St,101
+Manhattan,Milbank Center Go!Healthy Farm Stand,14-32 W 118th St,110
