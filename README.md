@@ -6,6 +6,8 @@ The intention of this app is to make lower income families of NYC aware of the v
 
 This app is developed from scratch by Mir Afra Humaira, under the supervision of Dr. Azhar as an Honor's Project for the course CSC211H Advanced Programming Techniques. 
 
+Link to website: https://bit.ly/3onZ8WK
+
 
 # Inspiration for Food4All
 In an expensive city like New York, food security is a major issue for lower income residents. Unhealthy food options are promoted more, and are cheaper than healthier food options like fruits and vegetables. Food4All is an app that acts as resource to lower income New Yorkers to find affordable food options by displaying locations of Farmers' Markets that accept SNAP EBT. Information on prevalent diseases caused by consuming unhealthy food are also provided, and how they can be prevented/controlled by healthy eating.
@@ -16,6 +18,12 @@ This app contains information about the nutritional values of consuming fruits a
 
 If one is unaware of their community district number, a link to Beta NYC's boundaries map is provided, from where the user can look up any address within NYC and find the community district for it.
 
+Link to video: https://youtu.be/AXlynQbBL6o
+
 # Algorithm of Food4All
 
 ![alt text](media/flowchart2.png)
+
+# Software Design of Food4All (UML)
+
+![alt text](media/UML.png)
