@@ -18,4 +18,4 @@ If one is unaware of their community district number, a link to Beta NYC's bound
 
 # Algorithm of Food4All
 
-![alt text](CSC211H_MirHumaira_HonorsProject_Spring2021/media/flowchart 2.png)
+![alt text](mirahumaira/CSC211H_MirHumaira_HonorsProject_Spring2021/media/flowchart 2.png)
