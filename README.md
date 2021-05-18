@@ -31,10 +31,10 @@ At first, you would have to download QT Framework from their website: https://bi
 Once QT is download and installed, open the Food4All.pro file in the 'src' folder for Food4All folder, and go to Sources --> directory.h file. 
 
 Double check debug and make sure the app runs:
-
-
+![alt text](media/runQT.jpg)
 
 Change the directories of the master files (in the 'files' folder) and the images (in the 'media' folder) to the specific directory of the Food4All folder you have download from git. 
+
 Make sure to follow the back and front slash patterns as given already in the original directory.h file.
 These are the only changes you would need to make to run this app. 
 
