@@ -28,7 +28,7 @@ Link to video: https://youtu.be/AXlynQbBL6o
 
 ![alt text](media/UML.png)
 
-# Challenge
+# Challenges
 
 * Learning QT Framework was a challenge since the syntax is different from what we are used to for C++. However, reading the API helped a lot, and video references from youtube, and stacks-overflow answers were of tremendous help. Last but not the least, trial and error for certain things (especially pointers to vectors) was an interesting way to learn how to implement what I wanted to implement.
 
@@ -41,3 +41,13 @@ Link to video: https://youtu.be/AXlynQbBL6o
 
 
 * After making the window and dialogues “frameless”, it was immovable, so a stacks -overflow answer was helpful. The credit is given as a comment in the code everywhere that specific code was used.
+
+# Accomplishments:
+
+* Succesfullly incorporated all major advanced programming techniques learnt in my 211H class.
+* Learnt QT framework and QT API
+
+# Future direction: 
+
+I would like to create a map with the Farmers' Market locations plotted in it and link it in the app.
+
