@@ -33,7 +33,15 @@ Once QT is download and installed, open the Food4All.pro file in the 'src' folde
 Double check debug and make sure the app runs:
 ![alt text](media/runQT.jpg)
 
-Change the directories of the master files (in the 'files' folder) and the images (in the 'media' folder) to the specific directory of the Food4All folder you have download from git. 
+Change the directories of the master files (in the 'files' folder) and the images (in the 'media' folder) to the specific directory of the CSC211H_MirHumaira_HonorsProject_Spring2021 folder you have download from git. 
+
+For files, right click on one of the master files, go to properties, and your specific directory should be displayed. Copy & paste it in the directory.h file for all the directories for the borough master files. For examplee:
+
+![alt text](media/filedirectory.jpg)
+
+For images, do the same. Copy & paste it in the directory.h file for all the image directories. For example: 
+
+![alt text](media/imagedirectory.jpg)
 
 Make sure to follow the back and front slash patterns as given already in the original directory.h file.
 These are the only changes you would need to make to run this app. 
