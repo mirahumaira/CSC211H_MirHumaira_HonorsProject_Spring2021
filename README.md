@@ -36,7 +36,7 @@ Link to video: https://youtu.be/AXlynQbBL6o
 
 
 
-Therefore, I made a directory class that has all the directories from the app, and all the other classes in the app has a directory object in them. So, all the other classes    can call the specific functions from the directory class to have access to the directories needed by them. And if I have to run this app in a new pc, I’d just have to copy   paste the directories 12 times only in the 1 class, instead of having to repeat the process 35+ times in 12 different classes. I also made my exception  handling throws  detailed, so if one certain directory is wrong, the error message would tell you exactly which file and function to look at (and you can see which directory function is used,  and correct it in the directory class).
+  Therefore, I made a directory class that has all the directories from the app, and all the other classes in the app has a directory object in them. So, all the other classes     can call the specific functions from the directory class to have access to the directories needed by them. And if I have to run this app in a new pc, I’d just have to copy       paste the directories 12 times only in the 1 class, instead of having to repeat the process 35+ times in 12 different classes. I also made my exception  handling throws         detailed, so if one certain directory is wrong, the error message would tell you exactly which file and function to look at (and you can see which directory function is used,   and correct it in the directory class).
 
 
 
